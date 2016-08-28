@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="19" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="20" pc="268435492" symbol="initialize"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="26" pc="268435536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="27" pc="268435536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="28" pc="268435553" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="29" pc="268435593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="30" pc="268435593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="31" pc="268435593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="32" pc="268435593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="33" pc="268435593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="34" pc="268435593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="37" pc="268435593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="38" pc="268435615" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="40" pc="268435622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="41" pc="268435658" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="43" pc="268435670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="45" pc="268435687" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="47" pc="268435704" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="51" pc="268435720" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="52" pc="268435756" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="53" pc="268435788" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="54" pc="268435820" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="57" pc="268435852" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="59" pc="268435860" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="60" pc="268435876" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="64" pc="268435898" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="65" pc="268435908" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="67" pc="268435915" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="68" pc="268435928" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="70" pc="268435939" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="74" pc="268435949" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="76" pc="268435969" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="80" pc="268435997" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="84" pc="268436004" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="86" pc="268436015" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="90" pc="268436054" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="93" pc="268436090" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="94" pc="268436125" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="97" pc="268436154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="100" pc="268436190" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="101" pc="268436233" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="104" pc="268436293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="105" pc="268436303" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="108" pc="268436408" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="109" pc="268436433" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="110" pc="268436451" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="111" pc="268436461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="114" pc="268436521" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="115" pc="268436546" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="118" pc="268436618" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="120" pc="268436642" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="121" pc="268436642" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="122" pc="268436649" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="124" pc="268436670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="127" pc="268436693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetView.mc" lineNum="134" pc="268436771" symbol="onTimer"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetApp.mc" lineNum="6" pc="268436790" symbol="initialize"/>
+<entry filename="C:\\Users\\idano\\workspace\\RecoveryWidget\\source\\RecoveryWidgetApp.mc" lineNum="19" pc="268436817" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8" object="true" symbol="RecoveryWidgetView"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="9" object="true" symbol="RecoveryWidgetApp"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="13" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="15" symbol="timer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="16" method="true" symbol="onTimer"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436765" name="i" stackId="12" startPc="268436642"/>
+<entry endPc="268436768" name="progress" stackId="8" startPc="268435536"/>
+<entry endPc="268436768" name="stepsFromGoal" stackId="6" startPc="268435536"/>
+<entry endPc="268436768" name="clockTime" stackId="3" startPc="268435536"/>
+<entry endPc="268436768" name="goalPace" stackId="7" startPc="268435536"/>
+<entry endPc="268436768" name="activityInfo" stackId="2" startPc="268435536"/>
+<entry endPc="268436768" name="string" stackId="10" startPc="268435536"/>
+<entry endPc="268436768" name="goalProgress" stackId="9" startPc="268435536"/>
+<entry endPc="268436768" name="ToD" stackId="4" startPc="268435536"/>
+<entry endPc="268436768" name="distMiles" stackId="11" startPc="268435536"/>
+<entry endPc="268436768" name="daySeconds" stackId="5" startPc="268435536"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="RecoveryWidgetView">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="RecoveryWidgetView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onTimer" parent="RecoveryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="RecoveryWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="RecoveryWidgetApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="RecoveryWidgetApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="RecoveryWidgetApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
